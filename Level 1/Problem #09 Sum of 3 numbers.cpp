@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// call by val & call by ref „‘ »«·ÿ—Ìﬁ… «·„À·Ï ⁄‘«‰ Ì–ﬂ—‰« »«·  
+// call by val & call by ref √£√î √à√á√°√ò√ë√≠√û√â √á√°√£√ã√°√¨ √ö√î√á√§ √≠√ê√ü√ë√§√á √à√á√°  
 
 void ReadNumbers(int& Num1, int& Num2, int& Num3)
 {
