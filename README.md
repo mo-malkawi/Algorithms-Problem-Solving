@@ -22,7 +22,7 @@ Topics: prime numbers, palindromes, encryption, random number generation, array 
 
 Topics: matrix operations (transpose, multiply, identity, sparse), string processing (trim, split, join, replace), recursion (Fibonacci), and a mini bank client system using file I/O.
 
-Uses `MyLib.h`.
+Uses `MyLib.h` and Clients.txt .
 
 ## Level 4: Date & Time
 65 problems focused entirely on date and time logic built from scratch.
