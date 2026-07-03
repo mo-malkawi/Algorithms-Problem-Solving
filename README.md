@@ -31,5 +31,7 @@ Topics: leap years, calendars, date arithmetic (add/subtract days), date compari
 
 Problems #20 onwards use `DateTimeLib.h`.
 
+[cpp-personal-libraries](https://github.com/mo-malkawi/cpp-personal-libraries)
+
 ## Technologies
 C++, Arrays, Matrices, Strings, File Handling, Recursion
